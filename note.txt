@@ -1,5 +1,0 @@
-How to use:
-python exploit.py -u <siteurl> -c <command to run, powershell -c ...>
-
-Eg:
-python exploit.py -u http://10.0.1.12/sites/test -c calc
